@@ -1,0 +1,166 @@
+
+.logo{
+height: 60px;
+margin-left: 20%;
+}
+.navbar-light{
+	margin-top: 0px;
+}
+
+.nav-link{
+color: grey;
+
+}
+.nav-item{
+background-color: transparent;
+}
+
+.jumbotron{
+background-image: url("../images/bg.jpeg");
+border-radius: 0px;
+width: 100%;
+height: 600px;
+}
+.jumbotron2{
+background-color: #D3D3D3;
+border-radius: 0px;
+width: 100%;
+height: 400px;
+}
+.display-4{
+color: white;
+text-align: center;
+margin-top: 5px;
+	
+}
+
+.lead{
+color: white;
+text-align: center;
+}
+
+.dos_botones{
+ margin-left: 37%;
+
+ }
+.btn-secondary {
+    color: #fff;
+    background-color: #25cc28;
+    border-color: #6c757d;
+    }
+
+.card{ 
+
+	text-align: center;
+}
+
+.gente{
+width: 35em;
+margin-left: 30%;
+}
+
+#solicita #inscribir{
+	height:	 280px;
+	width: 770px;
+	  }
+#contacto{
+	background: #666;
+	height: 230px;
+	width: 780px;
+	float: left;
+}
+
+.boton{
+	background: #2E64FE;
+	color: #fff;
+	display: inline-block;
+	font-size: 15px;
+	margin: 20px;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+.boton_comienza{
+	background: #2E64FE;
+	color: #fff;
+	display: inline-block;
+	font-size: 15px;
+	margin: 20px;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+.boton_mas{
+	background: #2fe649;
+	color: #fff;
+	display: inline-block;
+	font-size: 15px;
+	margin: 20px;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+.cont_text {
+	text-align: center;
+	color: #fff;
+	font-size: 12px;
+}
+
+#contacto {
+	padding-bottom: 100px;
+}
+
+#contacto #contacto1{
+	background: #fff;
+	height: 230px;
+	width: 260px;
+	display: inline-block;
+	float: left;
+}
+#contacto #sub{
+	background: #fff;
+	height: 230px;
+	width: 520px;
+	display: inline-block;
+	float: right;
+	border: 1px;
+}
+
+.email{
+	text-decoration: none;
+	color: #5882FA;
+
+
+}
+
+input[type=text]{
+	border: 2px solid #aaa;
+	font-size: 10px;
+	padding: 5px 5px;
+	border-radius: 5px;
+
+}
+input[type=submit]{
+	border: 2px solid #aaa;
+	font-size: 10px;
+	padding: 5px 5px;
+	border-radius: 5px;
+
+}
+
+footer{
+	color: white;
+	padding-top: 10px;
+	font-size: 20px;
+	text-align: center;
+	background: #3f3f3f;
+	width: 760px;
+	padding: 60px 10px;
+	bottom: 0;
+}
